@@ -26,11 +26,11 @@
   
   <!-- date -->
   <div class="decor"> </div>
-  <marquee >
+
   <center>
   <h1 class="titre">BIENVENUE A LA BIBLIOTHEQUE DE L'AGENCE UNIVERSITAIRE DE LA FRANCOPHONIE</h1>
   </center>
-  </marquee>
+ 
 
 <div></div>
 

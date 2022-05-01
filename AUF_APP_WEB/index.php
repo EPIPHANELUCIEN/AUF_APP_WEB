@@ -81,13 +81,10 @@
 
 
 
-
-
-
 </div class="for">
 <center class="ford">
   <button>
-    <a href="./page/formilaire.php" >S'inscrire</a>
+    <a href="./page/formilaire.php" >Ajouter un abonnee</a>
   </button>
         <button>
           <a href="">Se connecter</a>

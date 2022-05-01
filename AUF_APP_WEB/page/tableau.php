@@ -47,17 +47,19 @@
 </marquee>
 <div class="decor"> </div>
 
+
 <section class="e">
+ 
   <marquee behavior="scroll" direction="right">
     <div classe="p">
       <img src="../images/play/1(1).jpg" alt="">
-      <img src="" alt="">
+      <img src="../" alt="">
       <img src="" alt="">
     </div>
   </marquee>
   <marquee behavior="scroll" direction="up">
     <div classe="p">
-      <img src="../images/play/1(1).jpg" alt="">
+      <img src="." alt="">
       <img src="" alt="">
       <img src="" alt="">
     </div>
